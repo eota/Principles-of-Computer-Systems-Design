@@ -1,0 +1,5 @@
+** Random Test **
+CART  0 on Yellow track between junctions D and E
+CART  1 on Black  track between junctions E and A
+FAIL Unreserved
+    Functional: FAIL   (program error)
